@@ -1,6 +1,6 @@
 {
 	"name": "splascii",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "A utility to print horizontal lines and other common ASCII art",
 	"keywords": ["npm", "ascii", "package", "art"],
 	"homepage": "https://github.com/xmoople/splascii",
