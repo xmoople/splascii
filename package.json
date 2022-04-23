@@ -1,0 +1,29 @@
+{
+    "name": "splascii",
+    "version": “1.0 .0”,
+    "description": "A utility to print horizontal lines and other common ASCII art",
+    "keywords": ["npm", "ascii", "package", "art"],
+    "homepage": "https://github.com/xmoople/splascii",
+    "bugs": {
+        "url": "https://github.com/xmoople/splascii/issues",
+        "email": "oklomsy@oklomsy.com"
+    },
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xmoople/splascii/"
+    },
+    "author": "Abdul Kikar",
+    "license": "MIT",
+    "private": false,
+    "engines": {
+        "node": ">=6.0.0"
+    },
+    "engineStrict": true
+}
